@@ -1,1 +1,5 @@
 # basicOCRonBacii
+
+```
+How to get 
+```
