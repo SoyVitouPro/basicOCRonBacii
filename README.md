@@ -1,5 +1,6 @@
 # basicOCRonBacii
 
+### Feature:
 ```
-How to get 
+- CRNN + CTC model (word level)
 ```
